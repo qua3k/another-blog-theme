@@ -1,0 +1,11 @@
+description = "a blog theme based on golang blog theme"
+features = "blog"
+homepage = "https://github.com/qua3k/go-blog"
+license = "MIT"
+licenselink = "https://github.com/qua3k/go-blogblob/master/LICENSE"
+name = "go-blog"
+tags = "blog"
+
+[author]
+  homepage = "https://qua3k.github.io/"
+  name = "qua3k"
